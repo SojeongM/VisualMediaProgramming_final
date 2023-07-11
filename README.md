@@ -1,14 +1,20 @@
 # VisualMediaProgramming_final
-## Jumping Pokemon <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+## Jumping Pokemon <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
+ <img src="./assets/start.jpg" width="500" align="middle"> <br>
 ### Jumping gamge + Shooting game
-* jump to avoid the enemy
-* throw Pockeball to attack the enemy
-* evolve when certain score are met
-  * three stages of evolution (pichu > pikachu > raich)
-  * increased the number of Pokeballs available when evolving
-  * adjust difficulty by increasing enemy speed
-* add a cloud for the player to step on
-  * helps player to avoid the enemy or attack the flying enemy
+
+* **jump to avoid the enemy**<br><br>
+  <img src="./assets/jump.jpg" width="300">
+* **throw Pockeball to attack the enemy**
+  <p><img src="./assets/attack1.jpg" width="300"><img src="./assets/attack2.jpg" width="300"></p>
+* **evolve when certain score are met**
+  <p><img src="./assets/evolve1.jpg" width="300"><img src="./assets/evolve2.jpg" width="300"></p>
+  - three stages of evolution (pichu > pikachu > raich)<br>
+  - increased the number of Pokeballs available when evolving<br>
+  - adjust difficulty by increasing enemy speed<br><br>
+* **add a cloud for the player to step on**
+  <p><img src="./assets/cloud1.jpg" width="300"></p>
+  - helps player to avoid the enemy or attack the flying enemy
 
    
 ### How to play
