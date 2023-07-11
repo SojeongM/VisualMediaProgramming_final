@@ -1,6 +1,6 @@
 # VisualMediaProgramming_final
 ## Jumping Pokemon <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
-### Jumping gamge + Shooting game
+### Jumping game + Shooting game
 
 * **jump to avoid the enemy**<br><br>
   <img src="./assets/jump.jpg" width="300">
