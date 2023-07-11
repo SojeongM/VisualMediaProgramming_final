@@ -547,8 +547,7 @@ def makePygame(name):
   
             #newblock_time(60~70 사이)가 지날 때마다 몹 생성
             if alltime%newblock_time==0:
-                k=np.random.randint(0, len(imgs))
-               
+                k=np.random.randint(0, len(imgs))  
                 newblock=Block(imgs[k], player.block_speed)
                 blocks.add(newblock)
                 newblock_time=np.random.randint(60, 70)
